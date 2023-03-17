@@ -1,5 +1,5 @@
 - :call_me_hand: Hey, I’m Josh :atom:
-- :open_book: I’m interested in learning and gaining experience with data science, cyber secuirty and eventually robotics.
+- :open_book: Data science, cyber secuirty, space flight and eventually robotics are a few areas I enjoy learning about.
 - 🌱 I’m finishing a data science career accelerator.
 - :books: Previously I've studied Workforce Education, Engineering Management (Systems Engineering) and Cybersecurity.
 - :ringed_planet: Ultimately I'd like to contribute to endeavors that help us expand off world.
