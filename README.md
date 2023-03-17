@@ -2,7 +2,7 @@
 - :open_book: Data science, cyber secuirty, space flight and eventually robotics are a few areas I enjoy learning about.
 - 🌱 I’m finishing a data science career accelerator.
 - :books: Previously I've studied Workforce Education, Engineering Management (Systems Engineering) and Cybersecurity.
-- :ringed_planet: Ultimately I'd like to contribute to endeavors that help us expand off world.
+- :ringed_planet: Ultimately I'd like to contribute to humananity expanding off world.
 <!---
 JoshuaHolt-Tech/JoshuaHolt-Tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
