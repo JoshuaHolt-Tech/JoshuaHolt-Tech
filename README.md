@@ -1,6 +1,6 @@
 - :call_me_hand: Hey, I’m Josh :atom:
 - :open_book: Data science, cyber security, space flight and eventually robotics are a few areas I enjoy learning about.
-- :books: Previously I've studied Workforce Education, Engineering Management (Systems Engineering) and Cybersecurity.
+- :books: Previously I've worked in nuclear power and studied Data Science, Cybersecurity, Engineering Management (Systems Engineering) and Workforce Education.
 - :ringed_planet: Ultimately, I'd like to contribute to creating a space faring civilization.
 <!---
 JoshuaHolt-Tech/JoshuaHolt-Tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
