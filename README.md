@@ -1,6 +1,5 @@
 - :call_me_hand: Hey, I’m Josh :atom:
 - :open_book: Data science, cyber security, space flight and eventually robotics are a few areas I enjoy learning about.
-- 🌱 I’m finishing a data science career accelerator.
 - :books: Previously I've studied Workforce Education, Engineering Management (Systems Engineering) and Cybersecurity.
 - :ringed_planet: Ultimately, I'd like to contribute to creating a space faring civilization.
 <!---
