@@ -1,7 +1,22 @@
 - :call_me_hand: Hey, I’m Josh :atom:
 - :open_book: Data science, cyber security, space flight and eventually robotics are a few areas I enjoy learning about.
 - :books: Previously I've worked in nuclear power and studied Data Science, Cybersecurity, Engineering Management (Systems Engineering) and Workforce Education.
-- :ringed_planet: Ultimately, I'd like to contribute to creating a space faring civilization.
+- :ringed_planet: If you're not from around here, this is how my GitHub is set up:
+- Each project is organized in a repository. The two things you should check out is the ReadMe that is on the landing page and the final notebook. Here are a few examples of what I've done:
+
+- Good Bill Hunting:
+  - ReadMe: https://github.com/good-bill-hunting/political_parser
+  - Project: https://github.com/good-bill-hunting/political_parser/blob/main/final_notebook.ipynb
+ 
+- Predictive Maintenance:
+  - ReadMe: https://github.com/JoshuaHolt-Tech/proactive-maintence-project
+  - Project: https://github.com/JoshuaHolt-Tech/proactive-maintence-project/blob/main/final_pred_maint.ipynb
+ 
+- Wine Quality:
+  - ReadMe: https://github.com/pour-choices/wine_clustering_project
+  - Project: https://github.com/pour-choices/wine_clustering_project/blob/main/blind_tastings.ipynb
+ 
+Take a look around and let me know what you think.
 <!---
 JoshuaHolt-Tech/JoshuaHolt-Tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
