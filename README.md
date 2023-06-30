@@ -4,15 +4,19 @@
 - :ringed_planet: If you're not from around here, this is how my GitHub is set up:
 - Each project is organized in a repository. The two things you should check out is the ReadMe that is on the landing page and the final notebook. Here are a few examples of what I've done:
 
-- Good Bill Hunting:
+- Good Bill Hunting NLP:
   - ReadMe: https://github.com/good-bill-hunting/political_parser
   - Project: https://github.com/good-bill-hunting/political_parser/blob/main/final_notebook.ipynb
+
+- Speakeasy Casino NLP:
+  - Readme: https://github.com/JoshuaHolt-Tech/ace-archives
+  - Project: https://github.com/JoshuaHolt-Tech/ace-archives/blob/main/final_product.ipynb
  
-- Predictive Maintenance:
+- Predictive Maintenance Classification:
   - ReadMe: https://github.com/JoshuaHolt-Tech/proactive-maintence-project
   - Project: https://github.com/JoshuaHolt-Tech/proactive-maintence-project/blob/main/final_pred_maint.ipynb
  
-- Wine Quality:
+- Wine Quality Clustering:
   - ReadMe: https://github.com/pour-choices/wine_clustering_project
   - Project: https://github.com/pour-choices/wine_clustering_project/blob/main/blind_tastings.ipynb
  
