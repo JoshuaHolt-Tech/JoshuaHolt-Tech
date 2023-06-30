@@ -23,7 +23,7 @@
  
 Take a look around and let me know what you think. 
 
-Currently I'm learning about network analysis: https://github.com/JoshuaHolt-Tech/network_traffic_analysis
+- Currently I'm learning about network analysis: https://github.com/JoshuaHolt-Tech/network_traffic_analysis
 
 <!---
 JoshuaHolt-Tech/JoshuaHolt-Tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
