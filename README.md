@@ -2,8 +2,8 @@
 - :open_book: Data science, cyber security, space flight and eventually robotics are a few areas I enjoy learning about.
 - :books: Previously I've worked in nuclear power and studied Data Science, Cybersecurity, Engineering Management (Systems Engineering) and Workforce Education.
 
-:ringed_planet: If you're not from around here, this is how my GitHub is set up:
-- Each project is organized in a repository. The two things you should check out is the ReadMe that is on the landing page and the final notebook. Here are a few examples of what I've done:
+- :ringed_planet: If you're not from around here, this is how my GitHub is set up:
+    - Each project is organized in a repository. The two things you should check out is the ReadMe that is on the landing page and the final notebook. Here are a few examples of what I've done:
 
 - Good Bill Hunting NLP:
   - ReadMe: https://github.com/good-bill-hunting/political_parser
