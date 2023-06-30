@@ -21,7 +21,9 @@
   - ReadMe: https://github.com/pour-choices/wine_clustering_project
   - Project: https://github.com/pour-choices/wine_clustering_project/blob/main/blind_tastings.ipynb
  
-Take a look around and let me know what you think. Here is what I'm currently working on: https://github.com/JoshuaHolt-Tech/network_traffic_analysis
+Take a look around and let me know what you think. 
+
+Currently I'm learning about network analysis: https://github.com/JoshuaHolt-Tech/network_traffic_analysis
 
 <!---
 JoshuaHolt-Tech/JoshuaHolt-Tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
