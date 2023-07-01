@@ -41,8 +41,6 @@ Here are some of the technologies I've use:
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)&nbsp;
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)&nbsp;
 
-<br/>
-
 ## :mailbox: Contact Me
 
 Feel free to reach out if you have any questions or if you want to discuss data science, cybersecurity, or any of my projects. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/joshuapholt/).
