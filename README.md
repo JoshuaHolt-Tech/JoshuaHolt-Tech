@@ -19,7 +19,7 @@ Here are a few examples of what I've done:
 
 - [Predictive Maintenance Classification](https://github.com/JoshuaHolt-Tech/proactive-maintence-project): A machine learning project that predicts equipment failure. [Final notebook](https://github.com/JoshuaHolt-Tech/proactive-maintence-project/blob/main/final_pred_maint.ipynb).
 
-- [Wine Quality Clustering](https://github.com/pour-choices/wine_clustering_project): Utilizedclustering to analyze key features and coded machine learning models to predict a wine’s quality rating. [Final notebook](https://github.com/pour-choices/wine_clustering_project/blob/main/blind_tastings.ipynb).
+- [Wine Quality Clustering](https://github.com/pour-choices/wine_clustering_project): Utilized clustering to analyze key features and coded machine learning models to predict a wine’s quality rating. [Final notebook](https://github.com/pour-choices/wine_clustering_project/blob/main/blind_tastings.ipynb).
 
 ## :telescope: What I'm Working On
 
