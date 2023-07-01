@@ -2,13 +2,6 @@
 
 I'm a data scientist with a passion for cybersecurity, space flight, and robotics. I've previously worked in nuclear power and have studied Data Science, Cybersecurity, Engineering Management (Systems Engineering), and Workforce Education.
 
-## :hammer_and_wrench: Skills
-
-- **Problem Solving:** Proficient in identifying problems, researching solutions, and implementing them in a timely manner.
-- **Communication:** Excellent written and verbal communication skills, with the ability to explain complex technical concepts to non-technical audiences.
-- **Teamwork:** Proven ability to work effectively in team environments and collaborate on projects.
-- **Continuous Learning:** Committed to staying up-to-date with the latest technologies and industry trends.
-
 ## :open_file_folder: Projects
 
 Here are a few examples of what I've done:
@@ -44,7 +37,7 @@ Here are some of the technologies I've use:
 <img align="left" alt="Tails" src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white" />&nbsp;
 <img align="left" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp;
 <img align="left" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />&nbsp;
-
+<img align="left" alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />&nbsp;
 <br/>
 <br/>
 
