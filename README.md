@@ -53,6 +53,9 @@ Here are some of the technologies I frequently use:
 <img align="left" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img align="left" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
+<br/>
+<br/>
+
 ## :mailbox: Contact Me
 
 Feel free to reach out if you have any questions or if you want to discuss data science, cybersecurity, or any of my projects. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/joshuapholt/).
