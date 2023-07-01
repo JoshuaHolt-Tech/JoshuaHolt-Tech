@@ -13,13 +13,13 @@ I'm a data scientist with a passion for cybersecurity, space flight, and robotic
 
 Here are a few examples of what I've done:
 
-- [Good Bill Hunting NLP](https://github.com/good-bill-hunting/political_parser): Collected all federal congressional bills proposed from 2001 to 2022 and coded machine learning models to predict if a bill would receive partisan and bipartisan support to have an increased likelihood of passing Congress. [See the final notebook](https://github.com/good-bill-hunting/political_parser/blob/main/final_notebook.ipynb).
+- [Good Bill Hunting NLP](https://github.com/good-bill-hunting/political_parser): Collected all federal congressional bills proposed from 2001 to 2022 and coded machine learning models to predict if a bill would receive partisan and bipartisan support to have an increased likelihood of passing Congress. [Final notebook](https://github.com/good-bill-hunting/political_parser/blob/main/final_notebook.ipynb).
 
-- [Speakeasy Casino NLP](https://github.com/JoshuaHolt-Tech/ace-archives): Predicts the programming language of GitHub repositories containing the word "casino". [See the final notebook](https://github.com/JoshuaHolt-Tech/ace-archives/blob/main/final_product.ipynb).
+- [Speakeasy Casino NLP](https://github.com/JoshuaHolt-Tech/ace-archives): Predicts the programming language of GitHub repositories containing the word "casino". [Final notebook](https://github.com/JoshuaHolt-Tech/ace-archives/blob/main/final_product.ipynb).
 
-- [Predictive Maintenance Classification](https://github.com/JoshuaHolt-Tech/proactive-maintence-project): A machine learning project that predicts equipment failure. [See the final notebook](https://github.com/JoshuaHolt-Tech/proactive-maintence-project/blob/main/final_pred_maint.ipynb).
+- [Predictive Maintenance Classification](https://github.com/JoshuaHolt-Tech/proactive-maintence-project): A machine learning project that predicts equipment failure. [Final notebook](https://github.com/JoshuaHolt-Tech/proactive-maintence-project/blob/main/final_pred_maint.ipynb).
 
-- [Wine Quality Clustering](https://github.com/pour-choices/wine_clustering_project): Utilizedclustering to analyze key features and coded machine learning models to predict a wine’s quality rating. [See the final notebook](https://github.com/pour-choices/wine_clustering_project/blob/main/blind_tastings.ipynb).
+- [Wine Quality Clustering](https://github.com/pour-choices/wine_clustering_project): Utilizedclustering to analyze key features and coded machine learning models to predict a wine’s quality rating. [Final notebook](https://github.com/pour-choices/wine_clustering_project/blob/main/blind_tastings.ipynb).
 
 ## :telescope: What I'm Working On
 
