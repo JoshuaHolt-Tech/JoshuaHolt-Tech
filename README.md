@@ -9,9 +9,6 @@ I'm a data scientist with a passion for cybersecurity, space flight, and robotic
 - **Teamwork:** Proven ability to work effectively in team environments and collaborate on projects.
 - **Continuous Learning:** Committed to staying up-to-date with the latest technologies and industry trends.
 
-<br/>
-<br/>
-
 ## :open_file_folder: Projects
 
 Here are a few examples of what I've done:
