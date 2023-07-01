@@ -4,15 +4,10 @@ I'm a data scientist with a passion for cybersecurity, space flight, and robotic
 
 ## :hammer_and_wrench: Skills
 
-<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="Pandas" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-<img align="left" alt="NumPy" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
-
+- **Problem Solving:** Proficient in identifying problems, researching solutions, and implementing them in a timely manner.
+- **Communication:** Excellent written and verbal communication skills, with the ability to explain complex technical concepts to non-technical audiences.
+- **Teamwork:** Proven ability to work effectively in team environments and collaborate on projects.
+- **Continuous Learning:** Committed to staying up-to-date with the latest technologies and industry trends.
 
 <br/>
 <br/>
