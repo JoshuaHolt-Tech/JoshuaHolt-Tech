@@ -16,7 +16,7 @@ Here are a few examples of what I've done:
 
 ## :telescope: What I'm Working On
 
-Currently I'm learning and working on a project involving network analysis. I'm using Python and Scapy to analyze network traffic to identify potential security threats. You can follow my progress [here](https://github.com/JoshuaHolt-Tech/network_traffic_analysis).
+Programing solutions for network analysis, indicators of compromise, identifying potential security threats and normal behavior. You can follow my progress [here](https://github.com/JoshuaHolt-Tech/network_traffic_analysis).
 
 ## :robot: Technologies I Use
 
