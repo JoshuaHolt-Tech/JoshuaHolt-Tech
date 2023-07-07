@@ -16,8 +16,8 @@ Here are a few examples of what I've done:
 
 ## :telescope: What I'm Working On
 
-Network traffic analysis. You can follow my progress [here](https://github.com/JoshuaHolt-Tech/network_traffic_analysis).
-Energy consumption analysis. You can follow my progress [here](https://github.com/JoshuaHolt-Tech/energy_analysis).
+- Network traffic analysis. You can follow my progress [here](https://github.com/JoshuaHolt-Tech/network_traffic_analysis).
+- Energy consumption analysis. You can follow my progress [here](https://github.com/JoshuaHolt-Tech/energy_analysis).
 
 ## :robot: Technologies I Use
 
