@@ -14,11 +14,6 @@ Here are a few examples of what I've done:
 
 - [Wine Quality Clustering](https://github.com/pour-choices/wine_clustering_project): Utilized clustering to analyze key features and coded machine learning models to predict a wine’s quality rating. [Final notebook](https://github.com/pour-choices/wine_clustering_project/blob/main/blind_tastings.ipynb).
 
-## :telescope: What I'm Working On
-
-- Network traffic analysis. You can follow my progress [here](https://github.com/JoshuaHolt-Tech/network_traffic_analysis).
-- Energy consumption analysis. You can follow my progress [here](https://github.com/JoshuaHolt-Tech/energy_analysis).
-
 ## :robot: Technologies I Use
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
